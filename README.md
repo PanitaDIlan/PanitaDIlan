@@ -14,5 +14,7 @@ I started my career at Sena Centro Industrial y de Aviacion, then I joined Globa
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 
