@@ -1,7 +1,8 @@
 # Hi there 👋
 
 
-![Dylan Banner](https://drive.google.com/file/d/1QAOAXPvsLFGL9fWh5cJKfdI1idqKaQzH/view?usp=drive_link)
+![DYlan Urueña](https://github.com/user-attachments/assets/7216b046-d1c7-49c3-a533-61bb4ff8bb7b)
+
 
 ## About me 
 
